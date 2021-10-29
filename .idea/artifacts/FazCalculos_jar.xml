@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FazCalculos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FazCalculos_jar</output-path>
+    <root id="archive" name="ficha03.jar">
+      <element id="module-output" name="ficha03" />
+    </root>
+  </artifact>
+</component>
